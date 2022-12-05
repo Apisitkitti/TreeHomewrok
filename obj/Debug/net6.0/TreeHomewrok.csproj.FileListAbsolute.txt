@@ -1,0 +1,15 @@
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.csproj.AssemblyReference.cache
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.AssemblyInfoInputs.cache
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.AssemblyInfo.cs
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.csproj.CoreCompileInputs.cache
+E:\MDT211\TreeHomewrok\bin\Debug\net6.0\TreeHomewrok.exe
+E:\MDT211\TreeHomewrok\bin\Debug\net6.0\TreeHomewrok.deps.json
+E:\MDT211\TreeHomewrok\bin\Debug\net6.0\TreeHomewrok.runtimeconfig.json
+E:\MDT211\TreeHomewrok\bin\Debug\net6.0\TreeHomewrok.dll
+E:\MDT211\TreeHomewrok\bin\Debug\net6.0\TreeHomewrok.pdb
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.dll
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\refint\TreeHomewrok.dll
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.pdb
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\TreeHomewrok.genruntimeconfig.cache
+E:\MDT211\TreeHomewrok\obj\Debug\net6.0\ref\TreeHomewrok.dll
