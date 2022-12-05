@@ -6,7 +6,7 @@ class Program
        
         Stack<string> stack = new Stack<string>();
         Tree<string> tree = new Tree<string>();
-        TreeNode<string> treeNode = null;
+        //TreeNode<string> treeNode = null;
         string RootName = "Admin";
         tree.AddChild(-1,RootName);
         string AbsentName = "";
@@ -19,7 +19,7 @@ class Program
         int Siplingamount = 0;
         Manager(ref amount,ref Headamount, ref Siplingamount,ref tree,ref GeneralName, ref SiplingName);
         AbsentName = Console.ReadLine();
-        tree.searcher(treeNode,AbsentName,ref stack);  
+        //tree.searcher(treeNode,AbsentName,ref stack);  
                  
                     
                    
@@ -39,7 +39,7 @@ class Program
                 tree.AddChild(j,GeneralName);
                 //Console.Write("Input your Lower amount: ");
                 amount = int.Parse(Console.ReadLine());
-                Lower(ref amount,ref Headamount ,ref Siplingamount, ref tree, ref GeneralName, ref SiplingName);
+                 Lower(ref amount,ref Headamount ,ref Siplingamount, ref tree, ref GeneralName, ref SiplingName);
                 
             }      
     }
